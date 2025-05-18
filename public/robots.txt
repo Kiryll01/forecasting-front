@@ -1,3 +1,3 @@
 User-agent:*
 Disallow:
-Sitemap: https://449fd265-542c-440b-aa40-4a6bc802352c.weweb-preview.io/sitemap.xml
+Sitemap: https://ff5e114d-9a6f-429c-b5cc-6d7a25e5caeb.weweb-preview.io/sitemap.xml
